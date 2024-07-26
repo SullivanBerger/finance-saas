@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722006794016,
+      "tag": "0000_stale_true_believers",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722008827191,
+      "tag": "0001_mute_spencer_smythe",
+      "breakpoints": true
+    }
+  ]
+}
